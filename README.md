@@ -10,6 +10,6 @@ I'm a 21-year-old IT Support Intern living and working in Denmark. I'm currently
 
 ## Skills and Tools
 ### Proficient in:
-- ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![GLPI](https://img.shields.io/badge/-GLPI-333333?style=flat&logo=glpi)
